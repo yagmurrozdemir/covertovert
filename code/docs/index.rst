@@ -6,7 +6,15 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group 34
+
+İpek Nur Özcan
+2589760
+
+Aysel Yağmur Özdemir
+2521854
+
+
 
 
 .. toctree::
